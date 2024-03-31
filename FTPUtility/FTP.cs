@@ -88,7 +88,7 @@ namespace FTPUtility
                     }
                     client.Disconnect();
                 }
-                Console.WriteLine("File transfer successful.");
+                Console.WriteLine("File transfer successful. End of Code-Block");
             }
             catch (FileNotFoundException ex)
             {
